@@ -1,0 +1,46 @@
+.box{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.count{
+    display: flex;
+    justify-content: space-around;
+}
+.body{
+    background-color: black;
+}
+#row{
+    background-color: rgb(227, 207, 207);
+    padding: 30px;
+    margin: 50px;
+    
+}
+.title{
+font-family: Verdana,;
+font-size: 25px;
+font-weight: bold;
+margin: auto ;
+letter-spacing: 5px;
+color: rgb(125, 125, 215);
+margin-top: 40px;
+
+}
+.subtitle{
+    font-family: 'Franklin Gothic Medium';
+    letter-spacing: 5px;
+    margin-top: 20px;
+}
+.description{
+    margin-top: 20px;
+    font-family:  Geneva;
+    color: rgb(54, 75, 88);
+}
